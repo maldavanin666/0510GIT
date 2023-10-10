@@ -67,4 +67,4 @@ conflict 2222
 >git checkout -b name - создание и переход на след. ветку.
 
 
-helloo hellooo hellooo
+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
