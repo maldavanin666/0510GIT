@@ -65,3 +65,6 @@ conflict 2222
 >git checkout -b name - создание и переход на след. ветку.>git branch - показать все ветки 
 >git merge - слияние 
 >git checkout -b name - создание и переход на след. ветку.
+
+
+helloo hellooo hellooo
